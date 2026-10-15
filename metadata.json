@@ -1,0 +1,6 @@
+{
+  "name": "Windows 3.1 Sound Recorder Pro",
+  "description": "Clon mejorado de la grabadora de sonido de Windows 3.1 con edición multipista, efectos DSP/VST en tiempo real, exportación MP3/WAV de alta fidelidad, baja latencia y sincronización en la nube.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
